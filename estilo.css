@@ -1,0 +1,26 @@
+.foto{
+	background-image: url("bg2.jpg");
+}
+.color{
+	color: white;
+}
+.color1{
+	color: black;
+}
+.mar{
+	border-radius: 3%;
+	border: solid 7px #E5E1E1;
+	padding: 0;
+}
+.mar1{
+	border: solid 1px gray;
+}
+.mar2{
+	border: solid 1px #D5D3D3;
+}
+.color2{
+	background-color: #F1F1F1;
+}
+.porte{
+	font-size: 30px;
+}
